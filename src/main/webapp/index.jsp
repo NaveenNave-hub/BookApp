@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="LoginBox" style="height: max-content;">
-    <div class="title"> Rohit Amiya Balaji Mohanraj Sathish Naveen Prashanth........Rahul </div>
+    <div class="title"> AWS deployed Book App by Naveen </div>
     <form method="post" action="Login">
         <div class="User-details">
             <div class="input-box">
